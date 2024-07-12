@@ -1,0 +1,12 @@
+.bg-image{background-image: url('/images/033120190455-by-Henry.2edde7a9.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+}
+.list{
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+ 
